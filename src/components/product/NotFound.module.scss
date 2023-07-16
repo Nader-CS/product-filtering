@@ -1,0 +1,15 @@
+.container {
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .content {
+    background-color: #00a7e1;
+    padding: 5rem;
+    border-radius: 4rem;
+  }
+  h1 {
+    color: #fff;
+    text-transform: capitalize;
+  }
+}
